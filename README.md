@@ -1,2 +1,2 @@
-# UPASNA-
-Colon organoids Time series Project 
+# UPASNA
+Colon Organoids Time Series scRNAseq Project
